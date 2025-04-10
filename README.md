@@ -26,6 +26,18 @@ ensuring a more efficient and data-driven approach for law enforcement agencies.
 - **Front-end**: Graphical User Interface(Java)
 - **Database**: MySQL
 
+## 🖥️ Screenshots
+
+- ![Dashboard Screenshot](https://github.com/hamie-kalhoro/crime-records-management-system/blob/master/CRMS%20working%20pics/dashboard.png)
+
+- *Dashboard Interface*
+
+- ![Case Management Screenshot](https://github.com/hamie-kalhoro/crime-records-management-system/blob/master/CRMS%20working%20pics/case_management.png)
+
+- *Case Management Interface*
+
+---
+
 ---
 
 ## 🗺️ Entity-Relationship Diagram
